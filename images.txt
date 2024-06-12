@@ -1,2 +1,2 @@
-whyour/qinglong:latest
+whyour/qinglong
 #支持指定架构
