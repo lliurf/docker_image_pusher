@@ -1,2 +1,2 @@
-hub.docker.com/r/whyour/qinglong:latest
+whyour/qinglong:latest
 #支持指定架构
