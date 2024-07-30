@@ -1,7 +1,6 @@
-whyour/qinglong
-6053537/portainer-ce
-homeassistant/home-assistant
-gotify/server
-finab/bark-server
+--platform=linux/amd64 whyour/qinglong
+--platform=linux/amd64 6053537/portainer-ce
+--platform=linux/amd64 homeassistant/home-assistant
+--platform=linux/amd64 gotify/server
+--platform=linux/amd64 finab/bark-server
 #支持指定架构
---platform=linux/amd64
