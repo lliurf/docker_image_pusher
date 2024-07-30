@@ -4,3 +4,4 @@ homeassistant/home-assistant
 gotify/server
 finab/bark-server
 #支持指定架构
+--platform=linux/amd64
