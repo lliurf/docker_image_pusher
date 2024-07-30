@@ -1,4 +1,5 @@
 whyour/qinglong
 6053537/portainer-ce
 homeassistant/home-assistant
+gotify/server
 #支持指定架构
